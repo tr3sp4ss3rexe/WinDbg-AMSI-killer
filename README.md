@@ -1,7 +1,7 @@
 ![img](https://github.com/tr3sp4ss3rexe/WinDbg-AMSI-killer/blob/main/patchAmsi.png)
 # WinDbg AMSI killer extension
 
-A simple extension for WinDbg in the form of a DLL to patch AmsiScanBuffer from amsi.dll
+A simple DLL extension for WinDbg to patch AmsiScanBuffer from amsi.dll
 
 ## Compile
 Compile in Microsoft Visual Studio as a Windows DLL
